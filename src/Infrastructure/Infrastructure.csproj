@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
     <ProjectReference Include="..\Core\Core.csproj" />
@@ -40,7 +40,7 @@
     <PackageReference Include="Duende.IdentityServer" Version="6.2.3" />
     <PackageReference Include="Duende.IdentityServer.AspNetIdentity" Version="6.2.3" />
     <PackageReference Include="Duende.IdentityServer.EntityFramework" Version="6.2.3" />
-    <PackageReference Include="Duende.IdentityServer.EntityFramework.Storage" Version="6.2.3" />
+    <PackageReference Include="Duende.IdentityServer.EntityFramework.Storage" Version="6.3.2" />
   </ItemGroup>
 
   <PropertyGroup>
